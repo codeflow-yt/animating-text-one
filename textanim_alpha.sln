@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textanim_alpha", "textanim_alpha\textanim_alpha.csproj", "{0E2D570C-98F9-4875-BADC-3377E64A1E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2D570C-98F9-4875-BADC-3377E64A1E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2D570C-98F9-4875-BADC-3377E64A1E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2D570C-98F9-4875-BADC-3377E64A1E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2D570C-98F9-4875-BADC-3377E64A1E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {802E3A5C-2FA7-4FE8-B92C-BC3CCF4AAB00}
+	EndGlobalSection
+EndGlobal
